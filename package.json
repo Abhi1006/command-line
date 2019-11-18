@@ -1,0 +1,28 @@
+{
+  "name": "command-line",
+  "version": "1.0.0",
+  "description": "Command line dictionary",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "wordnik",
+    "api",
+    "dictionary",
+    "demo",
+    "command",
+    "line",
+    "dictionary"
+  ],
+  "author": "abhi",
+  "license": "MIT",
+  "dependencies": {
+    "async-waterfall": "0.1.5",
+    "request-json": "0.6.1"
+  }
+}
